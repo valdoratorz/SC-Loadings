@@ -1,18 +1,11 @@
-# Clash Royale Loading Screens
+# Loading backgrounds
 
-Examples below show the extracted background image from each version's `loading.sc`, without the logo and UI sprites from the texture atlas.
+All uploaded version folders are kept. These are three background varieties; the examples below show one version of each.
 
 <table>
   <tr>
-    <td align="center"><img src="pngs/3.2727.4/loading_background.png" width="180"><br>3.2727.4</td>
-    <td align="center"><img src="pngs/3.2728.2/loading_background.png" width="180"><br>3.2728.2</td>
-    <td align="center"><img src="pngs/3.2729.4/loading_background.png" width="180"><br>3.2729.4</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="pngs/3.2803.4/loading_background.png" width="180"><br>3.2803.4</td>
-    <td align="center"><img src="pngs/3.2803.5/loading_background.png" width="180"><br>3.2803.5</td>
-    <td></td>
+    <td align="center"><img src="pngs/3.1051.11/loading_1.png" width="180"><br>Variety 1 — 3.1051.11</td>
+    <td align="center"><img src="pngs/3.1708.3/loading_1.png" width="180"><br>Variety 2 — 3.1708.3</td>
+    <td align="center"><img src="pngs/3.2621.5/loading_1.png" width="180"><br>Variety 3 — 3.2621.5</td>
   </tr>
 </table>
-
-The extracted background is saved as `pngs/{version}/loading_background.png`. Raw texture images are kept beside it as `loading_0.png`, `loading_1.png`, and `loading_2.png` when available.
